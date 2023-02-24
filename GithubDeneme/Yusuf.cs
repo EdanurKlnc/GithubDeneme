@@ -8,5 +8,6 @@ namespace GithubDeneme
 {
     internal class Yusuf
     {
+        public int falan;
     }
 }
