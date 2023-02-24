@@ -14,9 +14,4 @@ Console.WriteLine("Berk Kaya");
 Console.WriteLine("Ceren");
 Console.WriteLine("Yusuf Kenan");
 Console.WriteLine("Ceren");
-Console.WriteLine("Abdülkadir Güneş");
-Console.WriteLine("Ceren");
-Console.WriteLine("Erdener");
-Console.WriteLine(  "Ceren");
-Console.WriteLine("Enes Buğra Cengiz");
 
