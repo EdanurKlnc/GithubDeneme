@@ -23,4 +23,4 @@ Console.WriteLine("Zeynep");
 Console.WriteLine(  "Yaren");
 Console.WriteLine(  "Ceren");
 Console.WriteLine("Yaren");
-Console.WriteLine("Ceren");
+
