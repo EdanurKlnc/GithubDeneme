@@ -14,6 +14,3 @@ Console.WriteLine("Berk Kaya");
 Console.WriteLine("Ceren");
 Console.WriteLine("Yusuf Kenan");
 Console.WriteLine("Ceren");
-
-
-
