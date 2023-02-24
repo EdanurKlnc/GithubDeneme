@@ -4,3 +4,5 @@ Console.WriteLine(  "Ceren");
 Console.WriteLine("Erdener");
 Console.WriteLine(  "Ceren");
 Console.WriteLine("Enes Buğra Cengiz");
+Console.WriteLine("Enes Buğra Cengiz");
+Console.WriteLine("Zeynep");
