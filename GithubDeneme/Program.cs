@@ -4,6 +4,8 @@ Console.WriteLine(  "Ceren");
 Console.WriteLine(  "Gamze Turap");
 Console.WriteLine("Hello, World!");
 Console.WriteLine(  "Ceren");
+Console.WriteLine("Yusuf Kenan");
+Console.WriteLine(  "Ceren");
 Console.WriteLine("Abdülkadir Güneş");
 Console.WriteLine(  "Ceren");
 Console.WriteLine("Erdener");
