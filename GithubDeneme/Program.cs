@@ -24,18 +24,3 @@ Console.WriteLine(  "Yaren");
 Console.WriteLine(  "Ceren");
 Console.WriteLine("Yaren");
 Console.WriteLine("Ceren");
-Console.WriteLine("Enes Buğra Cengiz"); Console.WriteLine("Enes Buğra Cengiz"); Console.WriteLine("Enes Buğra Cengiz"); Console.WriteLine("Enes Buğra Cengiz");
-Console.WriteLine(  "Yaren");
-Console.WriteLine(  "Ceren");
-Console.WriteLine("Enes Buğra Cengiz");Console.WriteLine("Enes Buğra Cengiz");Console.WriteLine("Enes Buğra Cengiz");Console.WriteLine("Enes Buğra Cengiz");
-Console.WriteLine("Enes Buğra Cengiz");
-
-<<<<<<< HEAD
-=======
-Console.WriteLine("Zeynep");
-Console.WriteLine("Enes Buğra Cengiz");
-Console.WriteLine("Ceren");
-Console.WriteLine("Kaanxcolak");
->>>>>>> 8b533452f43ab349f501c5535f4810f81dd70bc6
-Console.WriteLine("Kaanxcolak");
-Console.WriteLine(  "Bartu da burada, commit'i yok :)");
