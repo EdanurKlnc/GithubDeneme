@@ -4,6 +4,8 @@ Console.WriteLine("Ceren");
 Console.WriteLine("Gamze Turap");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Ceren");
+Console.WriteLine("Edanur Kılınç");
+Console.WriteLine("Ceren");
 Console.WriteLine("Enes Buğra Cengiz");
 Console.WriteLine("Zeynep");
 Console.WriteLine("Berk Kaya");
