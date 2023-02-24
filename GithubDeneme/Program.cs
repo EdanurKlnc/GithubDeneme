@@ -18,3 +18,4 @@ Console.WriteLine("Zeynep");
 Console.WriteLine("Enes Buğra Cengiz");
 Console.WriteLine(  "Ceren");
 Console.WriteLine("Kaanxcolak");
+Console.WriteLine(  "Bartu da burada, commit'i yok :)");
