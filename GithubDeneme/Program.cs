@@ -14,3 +14,8 @@ Console.WriteLine("Zeynep");
 Console.WriteLine(  "Yaren");
 Console.WriteLine(  "Ceren");
 Console.WriteLine("Enes Buğra Cengiz");Console.WriteLine("Enes Buğra Cengiz");Console.WriteLine("Enes Buğra Cengiz");Console.WriteLine("Enes Buğra Cengiz");
+Console.WriteLine("Enes Buğra Cengiz");
+Console.WriteLine("Zeynep");
+Console.WriteLine("Enes Buğra Cengiz");
+Console.WriteLine(  "Ceren");
+Console.WriteLine("Kaanxcolak");
