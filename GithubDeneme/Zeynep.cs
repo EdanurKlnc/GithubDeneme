@@ -5,6 +5,7 @@ namespace GithubDeneme
 	{
 		public Zeynep()
 		{
+			Console.WriteLine("eklendi");
 		}
 	}
 }
